@@ -6,6 +6,7 @@ public class Lesson6Runner {
     public static void main(String[] args) {
         Integer value = 25;
         Computer computer = new Computer();
+        System.out.println(value);
     }
 
 }
